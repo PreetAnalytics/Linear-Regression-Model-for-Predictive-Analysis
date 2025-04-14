@@ -1,9 +1,4 @@
-# CodeTech_T2
-Name: Balpreet Kaur Rooprha 
-Company : CodeTech IT Solutions & IT Consulting 
-ID:CT6WETQ
-Domain: Data Analytics 
-Duration: 20th Dec 2024 to 5th Febuary 2025
+Linear Regression Model for Predictive Analysis.
 
 
 
